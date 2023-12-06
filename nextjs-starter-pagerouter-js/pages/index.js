@@ -1,6 +1,9 @@
+import { ThemeBtn } from "@/components/theme/ThemeBtn";
+
 export default function Home() {
   return (
     <main className={`flex flex-col items-center overflow-auto gap-4 p-4`}>
+      <ThemeBtn />
       <h1 className={`text-4xl font-bold`}>Hello World!</h1>
       <p className={`text-2xl`}>Welcome to my Next.js starter template.</p>
       <p className={`text-2xl`}>overflow testing 1</p>
