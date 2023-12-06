@@ -6,5 +6,9 @@ This directory is for starter files to make it easy for starting a new project.
 
 Search for "Update me" comment -> customize it
 
-1. app-router | Javascript | tailwind-css | shadcnUI
-2. app-router | Typescript | tailwind-css | shadcnUI
+NextJS starters for frontend projects
+1. page-router | Javascript | tailwind-css | shadcnUI
+2. app-router  | Typescript | tailwind-css | shadcnUI
+
+
+TODO: starters for backend projects......
